@@ -47,6 +47,8 @@ python launch.py
 - check `BINGLIST.txt` with the combined list of parsed news sources or queries.
 - Modify the settings in `Autie.py` to suit your requirements for logging and deduplication.
 
+You might need to compile with pyinstaller x.py into an exe (make sure to enter your API details first)
+
 ### Logs and History
 - Changes are logged in an SQLite database (`changes.db`).
 - A fallback log (`FALLBACK.txt`) is maintained for redundancy.
