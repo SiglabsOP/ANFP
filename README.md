@@ -61,7 +61,7 @@ python launch.py
 - `history.txt`: Tracks previously fetched and processed data.
 - `parser/`: Contains additional utilities for parsing and processing content.
 
- .
+Gimmick: Autie has half a million quotes. extract quotes file and Start verbal.py
 
 ## Acknowledgments
 
