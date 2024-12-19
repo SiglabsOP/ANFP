@@ -69,7 +69,7 @@ Gimmick: Autie has half a million quotes. extract quotes file and Start verbal.p
 
 Thank you to the X community for making this happen!
 
-
+https://www.virustotal.com/gui/file/5788f49b7a06050249040af06b32d1c459e99fb8caa104c55f4f63b26e270805
 
 If you enjoy this program, buy me a coffee https://buymeacoffee.com/siglabo
 You can use it free of charge or build upon my code. 
